@@ -1,0 +1,9 @@
+
+FastAPI Project Structure:
+/fastapi_project
+├── main.py                 # Main FastAPI application entry point
+├── models.py               # Pydantic models for request/response validation
+├── routes.py               # API route definitions
+├── tests/
+│   └── test_main.py        # Functional test cases
+└── requirements.txt        # Project dependencies
